@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---packages-blog-gatsby-blog-pages-src-pages-kanash-jsx",
+    "path": "/kanash/",
+    "result": {"pageContext":{"paginatePostsPage":false,"basePath":"/","services":{"mailchimp":false,"disqus":false},"siteUrl":null,"darkMode":true,"includeExcerpt":true,"includeTimeToRead":true,"imageQuality":80}},
+    "staticQueryHashes": ["1366205697","1434057858","1956254406","1992822086","2150398506","2588575963","2918496967","354309640","4235339838"]}

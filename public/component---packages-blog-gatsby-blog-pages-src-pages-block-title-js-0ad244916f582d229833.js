@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_elegantstack_gatsby_starter_flexiblog_news=self.webpackChunk_elegantstack_gatsby_starter_flexiblog_news||[]).push([[596],{4879:function(t,e,l){l.r(e);l(7378);var a=l(559);e.default=function(t){return(0,a.tZ)("div",{className:"block-title text-"+t.textAlign+" "},(0,a.tZ)("p",null,t.paraText),(0,a.tZ)("h3",null,t.titleText))}}}]);
+//# sourceMappingURL=component---packages-blog-gatsby-blog-pages-src-pages-block-title-js-0ad244916f582d229833.js.map

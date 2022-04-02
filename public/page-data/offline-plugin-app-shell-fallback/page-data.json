@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---cache-caches-gatsby-plugin-offline-app-shell-js",
+    "path": "/offline-plugin-app-shell-fallback/",
+    "result": {"pageContext":{"paginatePostsPage":false,"basePath":"/","services":{"mailchimp":false,"disqus":false},"siteUrl":null,"darkMode":true,"includeExcerpt":true,"includeTimeToRead":true,"imageQuality":80}},
+    "staticQueryHashes": []}
